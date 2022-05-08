@@ -1,0 +1,64 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+.table-header-even {
+    background-color: black;
+    color: orange;
+}
+
+.table-header-odd {
+    background-color: orange;
+    color: black;
+}
+
+#comments-component{
+    height: 100vh;
+}
+
+#commentadd{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+
+.keret{
+    position: relative;
+    border: 3px groove rgb(123, 123, 176);
+    width: 15pc;
+    margin:10px;
+    background-color:#E8EAF6;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-weight: bolder;
+}
+
+div {
+    position: relative;
+}
+.image {
+    width: 200px;
+    margin: 0 auto;
+}
+
+mat-card-header{
+font-weight: bolder;
+}
+
+.bal{
+    text-align: left;
+    font-weight: bold;
+}
+
+.jobb{
+    text-align: right;
+}
+
+textarea{
+    min-block-size: 60px;
+    max-block-size: 60px;
+}
+

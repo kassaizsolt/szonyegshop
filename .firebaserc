@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "szonyegshop77": {
+      "hosting": {
+        "szonyegshop": [
+          "szonyegshop77"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "szonyegshop77"
+  }
+}
