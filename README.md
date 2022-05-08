@@ -1,6 +1,6 @@
 # Szonyegshop
 
-Egy kis segítség mit merre találsz meg.
+Egy kis segítség mit merre találsz meg
 
 ## Adatmodellek
 Models-en belül
